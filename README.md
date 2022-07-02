@@ -1,9 +1,9 @@
 ## Hi 👋 Onur here
-##🌱 I’m currently learning [Full-Stack Web & App Development](https://www.wbstraining.de/weiterbildung-full-stack-web-und-app-development-english/) at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)
+🌱 I’m currently learning [Full-Stack Web & App Development](https://www.wbstraining.de/weiterbildung-full-stack-web-und-app-development-english/) at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)
 
-##🤝 I’m looking to collaborate with other students & developers.
+🤝 I’m looking to collaborate with other students & developers.
 
-##💬 Ask me about 
+💬 Ask me about 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onureredo)
