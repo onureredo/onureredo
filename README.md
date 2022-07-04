@@ -3,7 +3,7 @@
 
 🤝 I’m looking to collaborate with other students & developers.
 
-💬 Ask me about 
+<!-- 💬 Ask me about -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onureredo)
