@@ -1,4 +1,4 @@
-## Hi, Onur here! 👋
+## Hi! Onur here 👋
 🌱 I’m currently learning [Full-Stack Web & App Development](https://www.wbstraining.de/weiterbildung-full-stack-web-und-app-development-english/) at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)
 
 🤝 I’m looking to collaborate with other students & developers.
