@@ -41,4 +41,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=onureredo&icon=0&color=12)](https://visitcount.itsvg.in)
+[![2](https://visitcount.itsvg.in/api?id=onureredo&icon=0&color=12)](https://visitcount.itsvg.in)
