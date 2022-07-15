@@ -1,7 +1,6 @@
 ## Hi, I am Onur 👋
-🌱 I’m currently learning [Full-Stack Web & App Development](https://www.wbstraining.de/weiterbildung-full-stack-web-und-app-development-english/) at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)
-
-🤝 I’m looking to collaborate with other students & developers.
+!🌱 I’m currently learning [Full-Stack Web & App Development](https://www.wbstraining.de/weiterbildung-full-stack-web-und-app-development-english/) at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)
+!🤝 I’m looking to collaborate with other students & developers.
 
 <!-- 💬 Ask me about -->
 
@@ -29,9 +28,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) -->
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) -->
 
 
 ## 🏆 GitHub Trophies
