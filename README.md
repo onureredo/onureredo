@@ -41,7 +41,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![image](https://user-images.githubusercontent.com/104835068/182152961-94230a44-12d1-413f-8db6-8cd64e0dc5fc.png)
 
 [![](https://visitcount.itsvg.in/api?id=onureredo&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
