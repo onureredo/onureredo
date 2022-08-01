@@ -43,4 +43,4 @@
 
 ![](https://komarev.com/ghpvc/?username=onureredo)
 
-[![2](https://visitcount.itsvg.in/api?id=onureredo&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=onureredo&icon=0&color=12)](https://visitcount.itsvg.in)
