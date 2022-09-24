@@ -41,6 +41,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfv9d34dnuzqc7uj6epryu63i&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 [![](https://visitcount.itsvg.in/api?id=onureredo&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
