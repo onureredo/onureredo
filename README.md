@@ -41,7 +41,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfv9d34dnuzqc7uj6epryu63i&cover_image=true&theme=default)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfv9d34dnuzqc7uj6epryu63i&cover_image=true&theme=default)
 
 [go]((https://open.spotify.com/user/gfv9d34dnuzqc7uj6epryu63i)){:target="_blank" rel="noopener"}
 
