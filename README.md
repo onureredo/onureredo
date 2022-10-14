@@ -1,4 +1,4 @@
-### 👋 Hi, I am Onur. I'm a developer from Germany. Nice to see you. 
+### 👋 Hi, I am Onur, a developer from Germany.
 🌱 I’m currently working at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)
 
 👯 I’m looking to collaborate with other developers.
