@@ -47,7 +47,6 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=onureredo&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=onureredo&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=onureredo&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 
