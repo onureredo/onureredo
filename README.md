@@ -1,4 +1,4 @@
-### 👋 Hi, I am Onur, a full- stack developer from Germany.
+### 👋 Hi, I am Onur, a full stack developer from Germany.
 <!-- 🌱 I’m currently working at [WBS CODING SCHOOL](https://www.wbscodingschool.com/) -->
 
 👯 I’m looking to collaborate with other developers. 
