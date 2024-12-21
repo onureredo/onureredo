@@ -76,13 +76,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onureredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onureredo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="175" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://codesandbox.io/u/onureredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="47" height="35" alt="codesandbox logo" />
@@ -103,6 +96,15 @@
   <a href="https://www.twitch.tv/onureredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
   </a> -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onureredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onureredo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="175" alt="languages graph"  />
+</div>
+
+###
+
+
 
 
 
