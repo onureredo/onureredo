@@ -85,22 +85,22 @@
   <a href="https://www.linkedin.com/in/onureredo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/onureredo" target="_blank">
+  <!--  <a href="https://www.instagram.com/onureredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@onureredo" target="_blank">
+ <a href="https://www.youtube.com/@onureredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.twitch.tv/onureredo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Hi 💫</h2>
+
 
 ###
 
@@ -115,17 +115,15 @@
 
 ###
 
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=onureredo.onureredo&left_color=mediumpurple&right_color=mediumpurple&left_text=%3C3"  />
 </div>
 
 ###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 [![](https://visitcount.itsvg.in/api?id=onureredo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
