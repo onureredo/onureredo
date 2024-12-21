@@ -98,24 +98,15 @@
 
 
 ###
-
-<br clear="both">
-
-
-
-###
-
-
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/onureredo/onureredo/ee8bbbd74275301eec3e293240b09e871835d837/snake.svg)
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onureredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onureredo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="175" alt="languages graph"  />
 </div>
 
-###
+
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/onureredo/onureredo/ee8bbbd74275301eec3e293240b09e871835d837/snake.svg)
+
 
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
