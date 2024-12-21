@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 
 <!-- 
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
@@ -103,8 +103,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onureredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onureredo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=onureredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onureredo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -115,11 +115,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=onureredo.onureredo&left_color=mediumpurple&right_color=mediumpurple&left_text=%3C3"  />
 </div>
 
-###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
+[![](https://visitcount.itsvg.in/api?id=onureredo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
