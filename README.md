@@ -104,8 +104,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/onureredo/onureredo/output/snake.svg](https://raw.githubusercontent.com/onureredo/onureredo/ee8bbbd74275301eec3e293240b09e871835d837/snake.svg" alt="s-animate" />
 
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/onureredo/onureredo/ee8bbbd74275301eec3e293240b09e871835d837/snake.svg)
 ###
 
 <div align="center">
